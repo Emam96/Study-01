@@ -1,0 +1,71 @@
+body {
+
+    border: solid black;
+border-width: 1px;
+    border-width: 1px;
+    border-radius: 5px;
+    width: 85%;
+    height: fit-content;
+    margin: 10rem auto;
+    display: flex; 
+    justify-content: space-between;
+    font-family: sans-serif;
+    padding: 1rem;
+}
+
+form {
+    /* border: solid tomato; */
+width: 40%;
+height: 100%;
+margin: auto;
+
+
+}
+
+fieldset {
+    border-style: none;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#card {
+    /* border: solid tomato; */
+    width:fit-content;
+    height: 350px; 
+}
+
+button {
+padding: 1rem;
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+}
+
+input, label {
+
+    display: block;
+}
+
+select {
+
+    width:100%;
+}
+
+input[type="submit"] {
+
+margin: 0.5rem auto;
+    width: 50%;
+}
+
+
+
+#certife {
+padding: 1.5rem;
+   box-shadow: 0px 2px 4px #000000a2;
+    width: 85%;
+    margin: 1rem auto;
+    text-align: center;
+
+
+}
