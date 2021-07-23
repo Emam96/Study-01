@@ -37,10 +37,10 @@ fieldset {
 }
 
 button {
-padding: 1rem;
-    position: absolute;
-    top: 1rem;
-    left: 1rem;
+padding: 0.5rem;
+    /* position: absolute;
+    bottom: 1rem; */
+  margin: auto;
 }
 
 input, label {
