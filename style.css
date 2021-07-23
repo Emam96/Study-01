@@ -33,6 +33,7 @@ fieldset {
     /* border: solid tomato; */
     width:fit-content;
     height: 350px; 
+    overflow: auto;
 }
 
 button {
@@ -62,10 +63,11 @@ margin: 0.5rem auto;
 
 #certife {
 padding: 1.5rem;
-   box-shadow: 0px 2px 4px #000000a2;
+   /* box-shadow: 0px 2px 4px #000000a2; */
     width: 85%;
     margin: 1rem auto;
     text-align: center;
+   
 
 
 }
